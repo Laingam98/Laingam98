@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I am Laingam Laishram 👋
 
-<!--
-**Laingam98/Laingam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Systems Engineer**
 
-Here are some ideas to get you started:
+I specialize in moving complex Machine Learning models onto resource-constrained microcontrollers to create high-efficiency, real-time products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠 My Focus Areas
+* Microcontroller-based AI/ML Implementation
+* Low-Power System Design (Proven ability to deploy CNNs with minimal footprints)
+* Embedded C/C++ and RTOS for high-performance systems
+
+#### 🔗 Connect with Me
+* [LinkedIn Profile](www.linkedin.com/in/laingam98) 
+* Email: laingam.laishram.meetei@gmail.com
+
+
+
