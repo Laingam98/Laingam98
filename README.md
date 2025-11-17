@@ -1,4 +1,4 @@
-## Hi, I am Laingam Laishram 👋
+## Hi, I am Laingam 👋
 
 **Embedded Systems Engineer**
 
