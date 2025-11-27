@@ -21,12 +21,12 @@ My focus is on DMA-driven sensor pipelines, low-power firmware, and real-time de
 
 ## Highlighted Projects
 
-Embedded Human Activity Recognition — STM32 + TinyML  
+Embedded Human Activity Recognition - STM32 + TinyML  
 Real-time motion classification (Idle / Walk / Run) deployed fully offline on a microcontroller.  
 DMA-based IMU pipeline → window segmentation → physics features → SVM inference.  
 Memory footprint: < 20 KB Flash, ~2 KB RAM. MCU sleep > 90%.
 
-GPS/GSM Anti-Theft Tracker — STM32 L432KC  
+GPS/GSM Anti-Theft Tracker - STM32 L432KC  
 Custom embedded system using Neo-6M GPS + SIM800L GSM for unauthorized vehicle detection.  
 Optimized GPS lock time and implemented robust AT command pipeline for reliable SMS alerts.  
 Delivered as a working prototype to a paid client.
@@ -52,7 +52,7 @@ Embedded Engineering
 Hardware ↔ Firmware Integration  
 • IMU (LSM6DSL), MEMS microphones  
 • GPS (Neo-6M), GSM (SIM800L)  
-• OLED / I2C peripherals  
+• OLED / SPI peripherals  
 • Driver development from scratch
 
 Edge ML Workflow  
