@@ -9,6 +9,7 @@ My focus is on DMA-driven sensor pipelines, low-power firmware, and real-time de
 ---
 
 ## What I Work On
+
 • Embedded C/C++ development on ARM Cortex-M (STM32, TI)
 • Driver-level peripheral integration (I2C, SPI, UART, ADC, Timers)
 • Low-power system design (sleep modes, event-driven wakeups)
@@ -63,6 +64,7 @@ Edge ML Workflow
 ---
 
 ## Engineering Mindset
+
 I don’t build demos.  
 I build working embedded devices under real constraints:
 
